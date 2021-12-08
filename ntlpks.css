@@ -1,0 +1,55 @@
+.beacheslink{
+  color: #338930;
+  font-size:30px;
+}
+.ntlprkslink{
+  color: #ffa700;
+  font-size:30px;
+}
+.citieslink{
+  color: darkmagenta;
+  font-size:30px;
+}
+.indexlink{
+  font-size:30px;
+}
+html{
+  background-color:white;
+}
+body{
+  font-family: 'Cabin Sketch';
+}
+.elk{
+  width:200px;
+  height:100px;
+  float:left;
+  padding:18px;
+}
+.attribute{
+  clear:left;
+  font-size:10px
+}
+.rock{
+  width:200px;
+  height:100px;
+  padding:18px;
+}
+
+.titleimg{
+  width:950px;
+  height:250px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size:63px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
