@@ -14,25 +14,26 @@
   font-size:30px;
 }
 html{
-  background-color:white;
+  background-color:#bdbdbd;
 }
 body{
   font-family: 'Cabin Sketch';
 }
 .elk{
-  width:200px;
-  height:100px;
-  float:left;
-  padding:18px;
+  width:450px;
+  height:265px;
 }
 .attribute{
   clear:left;
   font-size:10px
 }
 .rock{
-  width:200px;
-  height:100px;
-  padding:18px;
+  width:450px;
+  height:265px;
+}
+.redwood{
+  width:450px;
+  height:265px;
 }
 
 .titleimg{
