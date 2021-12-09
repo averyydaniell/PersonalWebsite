@@ -1,0 +1,53 @@
+html{
+  background-color:#bdbdbd;
+}
+body{
+  font-family: 'Cabin Sketch';
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size:63px;
+}
+
+.titleimg{
+  width:650px;
+  height:270px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.beacheslink{
+  color: #338930;
+  font-size:30px;
+}
+.ntlprkslink{
+  color: #ffa700;
+  font-size:30px;
+}
+.citieslink{
+  color: darkmagenta;
+  font-size:30px;
+}
+.indexlink{
+  font-size:30px;
+}
+.newyork{
+  width:600px;
+  height:400px;
+}
+.attribute{
+  clear:left;
+  font-size:10px
+}
+.chicago{
+  height:400px;
+}
+.sanfran{
+  width:600px;
+}
